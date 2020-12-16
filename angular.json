@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "cwhr"
+    }
+  },
+  "defaultProject": "cwhr",
+  "cli": {
+    "analytics": "de1f0af9-c594-4ccd-b3fe-e19d1ad6ff06"
+  }
 }

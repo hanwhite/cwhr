@@ -1,0 +1,18 @@
+.logo {
+    margin-top: 10px;
+}
+
+.navigation {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #013779;
+}
+
+.navigation a {
+    color: #013779;
+}
+
+.navigation a:hover {
+    color: #CC4B00;
+}
